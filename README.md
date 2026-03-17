@@ -1,4 +1,4 @@
-# Restaurant_sales_analysis
+# Restaurant Sales Analysis
 Data science
 This project focuses on analyzing restaurant sales data to gain meaningful insights and improve decision-making using machine learning techniques. Restaurants generate large volumes of transactional data every day, including information related to item prices, order quantities, discounts, taxes, total bill amounts, and customer types. However, this data is often underutilized, leading to inefficient sales strategies and missed revenue opportunities.
 
